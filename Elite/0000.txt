@@ -1,1 +1,2 @@
-
+DELAY 1000
+STRING hello world
